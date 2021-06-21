@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.e1f73bcf.chunk.js",
-    "main.js.map": "/static/js/main.e1f73bcf.chunk.js.map",
+    "main.js": "/static/js/main.ce4e80cd.chunk.js",
+    "main.js.map": "/static/js/main.ce4e80cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8cf6ec30.js",
     "runtime-main.js.map": "/static/js/runtime-main.8cf6ec30.js.map",
-    "static/js/2.19b6e7be.chunk.js": "/static/js/2.19b6e7be.chunk.js",
-    "static/js/2.19b6e7be.chunk.js.map": "/static/js/2.19b6e7be.chunk.js.map",
+    "static/js/2.7843fa59.chunk.js": "/static/js/2.7843fa59.chunk.js",
+    "static/js/2.7843fa59.chunk.js.map": "/static/js/2.7843fa59.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.19b6e7be.chunk.js.LICENSE.txt": "/static/js/2.19b6e7be.chunk.js.LICENSE.txt",
+    "static/js/2.7843fa59.chunk.js.LICENSE.txt": "/static/js/2.7843fa59.chunk.js.LICENSE.txt",
     "static/media/dc-arrow.jpg": "/static/media/dc-arrow.15b27bc2.jpg",
     "static/media/dc-batman.jpg": "/static/media/dc-batman.ab9eadc3.jpg",
     "static/media/dc-black.jpg": "/static/media/dc-black.3747c663.jpg",
@@ -31,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cf6ec30.js",
-    "static/js/2.19b6e7be.chunk.js",
-    "static/js/main.e1f73bcf.chunk.js"
+    "static/js/2.7843fa59.chunk.js",
+    "static/js/main.ce4e80cd.chunk.js"
   ]
 }
